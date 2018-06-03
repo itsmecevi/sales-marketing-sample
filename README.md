@@ -5,7 +5,7 @@ This is a Doku for Sales & Markting analysis sample with Power BI.
 Source: 
 https://docs.microsoft.com/en-us/power-bi/sample-sales-and-marketing from http://obvience.com/
 
-The dataset: [Click here](https://drive.google.com/file/d/1s15qKFObhzhwWJ6yW6hLmwCbiEUjdEfF/view?usp=sharing)
+The dataset: [Click here](https://drive.google.com/file/d/1G_khaj3gINEHxqsrF8o1RdwRcDD4WoaY/view?usp=sharing)
 
 Before going further, we need understand the concept of the data model, please read the link below:
 https://en.wikipedia.org/wiki/Data_model
